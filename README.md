@@ -1,2 +1,2 @@
 # Rep-1
-The first repository
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
